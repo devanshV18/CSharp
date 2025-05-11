@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\typeConversions\bin\Debug\net8.0\typeConversions.exe
+C:\Users\HP\Desktop\Csharp\typeConversions\bin\Debug\net8.0\typeConversions.deps.json
+C:\Users\HP\Desktop\Csharp\typeConversions\bin\Debug\net8.0\typeConversions.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\typeConversions\bin\Debug\net8.0\typeConversions.dll
+C:\Users\HP\Desktop\Csharp\typeConversions\bin\Debug\net8.0\typeConversions.pdb
+C:\Users\HP\Desktop\Csharp\typeConversions\obj\Debug\net8.0\typeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\typeConversions\obj\Debug\net8.0\typeConversions.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\typeConversions\obj\Debug\net8.0\typeConversions.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\typeConversions\obj\Debug\net8.0\typeConversions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\typeConversions\obj\Debug\net8.0\typeConversions.dll
+C:\Users\HP\Desktop\Csharp\typeConversions\obj\Debug\net8.0\refint\typeConversions.dll
+C:\Users\HP\Desktop\Csharp\typeConversions\obj\Debug\net8.0\typeConversions.pdb
+C:\Users\HP\Desktop\Csharp\typeConversions\obj\Debug\net8.0\typeConversions.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\typeConversions\obj\Debug\net8.0\ref\typeConversions.dll

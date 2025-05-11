@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\oops11\obj\Debug\net8.0\oops11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\oops11\obj\Debug\net8.0\oops11.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\oops11\obj\Debug\net8.0\oops11.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\oops11\obj\Debug\net8.0\oops11.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\oops11\bin\Debug\net8.0\oops11.exe
+C:\Users\HP\Desktop\Csharp\oops11\bin\Debug\net8.0\oops11.deps.json
+C:\Users\HP\Desktop\Csharp\oops11\bin\Debug\net8.0\oops11.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\oops11\bin\Debug\net8.0\oops11.dll
+C:\Users\HP\Desktop\Csharp\oops11\bin\Debug\net8.0\oops11.pdb
+C:\Users\HP\Desktop\Csharp\oops11\obj\Debug\net8.0\oops11.dll
+C:\Users\HP\Desktop\Csharp\oops11\obj\Debug\net8.0\refint\oops11.dll
+C:\Users\HP\Desktop\Csharp\oops11\obj\Debug\net8.0\oops11.pdb
+C:\Users\HP\Desktop\Csharp\oops11\obj\Debug\net8.0\oops11.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\oops11\obj\Debug\net8.0\ref\oops11.dll

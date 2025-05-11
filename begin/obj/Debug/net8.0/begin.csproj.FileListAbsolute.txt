@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\begin\bin\Debug\net8.0\begin.exe
+C:\Users\HP\Desktop\Csharp\begin\bin\Debug\net8.0\begin.deps.json
+C:\Users\HP\Desktop\Csharp\begin\bin\Debug\net8.0\begin.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\begin\bin\Debug\net8.0\begin.dll
+C:\Users\HP\Desktop\Csharp\begin\bin\Debug\net8.0\begin.pdb
+C:\Users\HP\Desktop\Csharp\begin\obj\Debug\net8.0\begin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\begin\obj\Debug\net8.0\begin.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\begin\obj\Debug\net8.0\begin.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\begin\obj\Debug\net8.0\begin.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\begin\obj\Debug\net8.0\begin.dll
+C:\Users\HP\Desktop\Csharp\begin\obj\Debug\net8.0\refint\begin.dll
+C:\Users\HP\Desktop\Csharp\begin\obj\Debug\net8.0\begin.pdb
+C:\Users\HP\Desktop\Csharp\begin\obj\Debug\net8.0\begin.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\begin\obj\Debug\net8.0\ref\begin.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\stringfunctions\bin\Debug\net8.0\stringfunctions.exe
+C:\Users\HP\Desktop\Csharp\stringfunctions\bin\Debug\net8.0\stringfunctions.deps.json
+C:\Users\HP\Desktop\Csharp\stringfunctions\bin\Debug\net8.0\stringfunctions.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\stringfunctions\bin\Debug\net8.0\stringfunctions.dll
+C:\Users\HP\Desktop\Csharp\stringfunctions\bin\Debug\net8.0\stringfunctions.pdb
+C:\Users\HP\Desktop\Csharp\stringfunctions\obj\Debug\net8.0\stringfunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\stringfunctions\obj\Debug\net8.0\stringfunctions.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\stringfunctions\obj\Debug\net8.0\stringfunctions.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\stringfunctions\obj\Debug\net8.0\stringfunctions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\stringfunctions\obj\Debug\net8.0\stringfunctions.dll
+C:\Users\HP\Desktop\Csharp\stringfunctions\obj\Debug\net8.0\refint\stringfunctions.dll
+C:\Users\HP\Desktop\Csharp\stringfunctions\obj\Debug\net8.0\stringfunctions.pdb
+C:\Users\HP\Desktop\Csharp\stringfunctions\obj\Debug\net8.0\stringfunctions.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\stringfunctions\obj\Debug\net8.0\ref\stringfunctions.dll

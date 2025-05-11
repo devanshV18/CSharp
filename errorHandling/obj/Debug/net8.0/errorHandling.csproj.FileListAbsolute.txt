@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\errorHandling\obj\Debug\net8.0\errorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\errorHandling\obj\Debug\net8.0\errorHandling.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\errorHandling\obj\Debug\net8.0\errorHandling.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\errorHandling\obj\Debug\net8.0\errorHandling.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\errorHandling\bin\Debug\net8.0\errorHandling.exe
+C:\Users\HP\Desktop\Csharp\errorHandling\bin\Debug\net8.0\errorHandling.deps.json
+C:\Users\HP\Desktop\Csharp\errorHandling\bin\Debug\net8.0\errorHandling.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\errorHandling\bin\Debug\net8.0\errorHandling.dll
+C:\Users\HP\Desktop\Csharp\errorHandling\bin\Debug\net8.0\errorHandling.pdb
+C:\Users\HP\Desktop\Csharp\errorHandling\obj\Debug\net8.0\errorHandling.dll
+C:\Users\HP\Desktop\Csharp\errorHandling\obj\Debug\net8.0\refint\errorHandling.dll
+C:\Users\HP\Desktop\Csharp\errorHandling\obj\Debug\net8.0\errorHandling.pdb
+C:\Users\HP\Desktop\Csharp\errorHandling\obj\Debug\net8.0\errorHandling.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\errorHandling\obj\Debug\net8.0\ref\errorHandling.dll

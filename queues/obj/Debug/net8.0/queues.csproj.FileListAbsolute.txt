@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\queues\bin\Debug\net8.0\queues.exe
+C:\Users\HP\Desktop\Csharp\queues\bin\Debug\net8.0\queues.deps.json
+C:\Users\HP\Desktop\Csharp\queues\bin\Debug\net8.0\queues.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\queues\bin\Debug\net8.0\queues.dll
+C:\Users\HP\Desktop\Csharp\queues\bin\Debug\net8.0\queues.pdb
+C:\Users\HP\Desktop\Csharp\queues\obj\Debug\net8.0\queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\queues\obj\Debug\net8.0\queues.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\queues\obj\Debug\net8.0\queues.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\queues\obj\Debug\net8.0\queues.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\queues\obj\Debug\net8.0\queues.dll
+C:\Users\HP\Desktop\Csharp\queues\obj\Debug\net8.0\refint\queues.dll
+C:\Users\HP\Desktop\Csharp\queues\obj\Debug\net8.0\queues.pdb
+C:\Users\HP\Desktop\Csharp\queues\obj\Debug\net8.0\queues.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\queues\obj\Debug\net8.0\ref\queues.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\oops5\bin\Debug\net8.0\oops5.exe
+C:\Users\HP\Desktop\Csharp\oops5\bin\Debug\net8.0\oops5.deps.json
+C:\Users\HP\Desktop\Csharp\oops5\bin\Debug\net8.0\oops5.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\oops5\bin\Debug\net8.0\oops5.dll
+C:\Users\HP\Desktop\Csharp\oops5\bin\Debug\net8.0\oops5.pdb
+C:\Users\HP\Desktop\Csharp\oops5\obj\Debug\net8.0\oops5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\oops5\obj\Debug\net8.0\oops5.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\oops5\obj\Debug\net8.0\oops5.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\oops5\obj\Debug\net8.0\oops5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\oops5\obj\Debug\net8.0\oops5.dll
+C:\Users\HP\Desktop\Csharp\oops5\obj\Debug\net8.0\refint\oops5.dll
+C:\Users\HP\Desktop\Csharp\oops5\obj\Debug\net8.0\oops5.pdb
+C:\Users\HP\Desktop\Csharp\oops5\obj\Debug\net8.0\oops5.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\oops5\obj\Debug\net8.0\ref\oops5.dll

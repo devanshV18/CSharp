@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\oops1\bin\Debug\net8.0\oops1.exe
+C:\Users\HP\Desktop\Csharp\oops1\bin\Debug\net8.0\oops1.deps.json
+C:\Users\HP\Desktop\Csharp\oops1\bin\Debug\net8.0\oops1.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\oops1\bin\Debug\net8.0\oops1.dll
+C:\Users\HP\Desktop\Csharp\oops1\bin\Debug\net8.0\oops1.pdb
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.dll
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\refint\oops1.dll
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.pdb
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\ref\oops1.dll

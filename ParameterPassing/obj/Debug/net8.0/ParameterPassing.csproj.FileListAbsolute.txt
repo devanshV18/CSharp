@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\ParameterPassing\bin\Debug\net8.0\ParameterPassing.exe
+C:\Users\HP\Desktop\Csharp\ParameterPassing\bin\Debug\net8.0\ParameterPassing.deps.json
+C:\Users\HP\Desktop\Csharp\ParameterPassing\bin\Debug\net8.0\ParameterPassing.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\ParameterPassing\bin\Debug\net8.0\ParameterPassing.dll
+C:\Users\HP\Desktop\Csharp\ParameterPassing\bin\Debug\net8.0\ParameterPassing.pdb
+C:\Users\HP\Desktop\Csharp\ParameterPassing\obj\Debug\net8.0\ParameterPassing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\ParameterPassing\obj\Debug\net8.0\ParameterPassing.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\ParameterPassing\obj\Debug\net8.0\ParameterPassing.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\ParameterPassing\obj\Debug\net8.0\ParameterPassing.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\ParameterPassing\obj\Debug\net8.0\ParameterPassing.dll
+C:\Users\HP\Desktop\Csharp\ParameterPassing\obj\Debug\net8.0\refint\ParameterPassing.dll
+C:\Users\HP\Desktop\Csharp\ParameterPassing\obj\Debug\net8.0\ParameterPassing.pdb
+C:\Users\HP\Desktop\Csharp\ParameterPassing\obj\Debug\net8.0\ParameterPassing.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\ParameterPassing\obj\Debug\net8.0\ref\ParameterPassing.dll

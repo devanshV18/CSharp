@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.exe
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.deps.json
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.dll
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\bin\Debug\net8.0\MultidimensionalArrays.pdb
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.dll
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\obj\Debug\net8.0\refint\MultidimensionalArrays.dll
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.pdb
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\obj\Debug\net8.0\MultidimensionalArrays.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\MultidimensionalArrays\obj\Debug\net8.0\ref\MultidimensionalArrays.dll
