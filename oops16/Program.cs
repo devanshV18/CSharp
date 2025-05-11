@@ -33,7 +33,7 @@ class Program
 {
     static void Main()
     {
-        //this works fine, as the abstract method simply g
+        //this works fine, as the abstract method simply is overridden.
         Dog d = new Dog("golden", 4);
         d.MakeSound(); // Output: Bark
         d.Sleep();     // Output: Sleeping...
