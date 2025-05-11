@@ -1,0 +1,86 @@
+✅ Abstract Class in C# (Simple Explanation)
+An abstract class is like a partially finished blueprint. It can have:
+
+Implemented methods (fully written logic),
+
+Abstract methods (no logic; just declared),
+
+Fields and properties,
+
+Constructors.
+
+You cannot create objects of an abstract class directly. Instead, other classes inherit it and must override its abstract methods.
+
+👉 Example:
+csharp
+Copy
+Edit
+using System;
+
+abstract class Animal
+{
+    public abstract void MakeSound(); // Abstract method (no body)
+    
+    public void Sleep() // Regular method with body
+    {
+        Console.WriteLine("Sleeping...");
+    }
+}
+
+class Dog : Animal
+{
+    public override void MakeSound()
+    {
+        Console.WriteLine("Bark");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Dog d = new Dog();
+        d.MakeSound(); // Output: Bark
+        d.Sleep();     // Output: Sleeping...
+    }
+}
+✅ Interface in C# (Simple Explanation)
+An interface is like a contract — it defines what a class should do, but not how.
+
+It only contains method declarations, no implementation (until C# 8.0 — default methods can be added, but still no fields or constructors).
+
+A class that implements an interface must provide the full implementation for all its methods.
+
+👉 Example:
+csharp
+Copy
+Edit
+using System;
+
+interface IVehicle
+{
+    void Drive();
+}
+
+class Car : IVehicle
+{
+    public void Drive()
+    {
+        Console.WriteLine("Car is driving");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Car c = new Car();
+        c.Drive(); // Output: Car is driving
+    }
+}
+🔍 Abstract Class vs Interface in C#
+Feature	Abstract Class	Interface
+Purpose	Partial implementation + structure	Only structure, no implementation (till C# 8)
+Method Implementation	Can have both abstract and non-abstract methods	Only method declarations (before C# 8)
+Inheritance	Can inherit only one abstract class (single inheritance)	Can implement multiple interfaces (multiple inheritance)
+Constructor/Fields	Can have fields and constructors	Cannot have fields or constructors

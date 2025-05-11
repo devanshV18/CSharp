@@ -41,8 +41,13 @@ namespace InterfaceExample
     {
         static void Main(string[] args)
         {
-            IAnimal myDog = new Dog();
-            IAnimal myCat = new Cat();
+            //interface class interface
+            // IAnimal myDog = new Dog();
+            // IAnimal myCat = new Cat();
+
+            //concerned class interface
+            Dog myDog = new Dog();
+            Cat myCat = new Cat();
 
             myDog.MakeSound();
             myDog.Eat("bones");
