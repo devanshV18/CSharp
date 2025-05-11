@@ -8,9 +8,10 @@ namespace PropertyDemo
 
         public double Salary
         {
-            get { return salary; }
-            set
-            {
+            get { 
+                return salary; 
+            }
+            set {
                 if (value >= 0)
                     salary = value;
                 else

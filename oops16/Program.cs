@@ -1,82 +1,46 @@
 ﻿using System;
 
-namespace AbstractClassExample
+abstract class Animal
 {
-    // Abstract base class
-    abstract class Shape
-    {
-        public string Color { get; set; } 
+    public string color;
 
-        // Constructor
-        public Shape(string color)
-        {
-            Color = color;
-        }
-
-        // Abstract method - must be overridden
-        public abstract double Area();
-
-        // Non-abstract method
-        public void Display()
-        {
-            Console.WriteLine($"This is a {Color} shape.");
-        }
+    //constructor
+    public Animal(string color){
+        this.color = color;
     }
-
-    // Derived class: Circle
-    class Circle : Shape
+    public abstract void MakeSound(); // Abstract method (no body)
+    
+    public void Sleep() // Regular method with body
     {
-        public double Radius { get; set; }
-
-        
-        public Circle(string color, double radius) : base(color)
-        {
-            Radius = radius;
-        }
-
-        // Override abstract method
-        public override double Area()
-        {
-            return Math.PI * Radius * Radius;
-        }
+        Console.WriteLine("Sleeping...");
     }
+}
 
-    // Derived class: Rectangle
-    class Rectangle : Shape
-    {
-        public double Width { get; set; }
-        public double Height { get; set; }
+class Dog : Animal
+{
+    public int age;
 
-        public Rectangle(string color, double width, double height) : base(color)
-        {
-            Width = width;
-            Height = height;
-        }
-
-        // Override abstract method
-        public override double Area()
-        {
-            return Width * Height;
-        }
+    public Dog(string color, int age) : base(color){
+        this.age = age;
     }
-
-    class Program
+    public override void MakeSound()
     {
-        static void Main(string[] args)
-        {
-            // Shape s = new Shape("Red"); ❌ Not allowed - abstract class can't be instantiated
+        Console.WriteLine("Bark");
+    }
+}
 
-            Shape circle = new Circle("Blue", 5);
-            Shape rect = new Rectangle("Green", 4, 6);
+class Program
+{
+    static void Main()
+    {
+        //this works fine, as the abstract method simply g
+        Dog d = new Dog("golden", 4);
+        d.MakeSound(); // Output: Bark
+        d.Sleep();     // Output: Sleeping...
 
-            circle.Display();
-            Console.WriteLine($"Area of circle: {circle.Area():0.00}");
-
-            rect.Display();
-            Console.WriteLine($"Area of rectangle: {rect.Area():0.00}");
-
-            // In Main, we declare references of type Shape, but assign them objects of type Circle and Rectangle
-            //  This allows us to call methods like Display() and Area() polymorphically.
-        }
+        //using absract class interface -> this again works too
+        Animal a = new Dog("White", 5);
+        a.MakeSound();
+        d.Sleep();
     }
 }

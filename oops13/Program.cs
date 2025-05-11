@@ -44,6 +44,7 @@ namespace InheritanceExample
         }
     }
 
+    //class C has access to methods and attributes from both A and B
     class C : B
     {
         public string region;
@@ -78,7 +79,7 @@ namespace InheritanceExample
             // obj.DisplayC();
 
             //snippet 2 -> Multilevel inheritance with Parametrised constructor.
-            C obj = new C("English", "British", "UK");
+            C obj = new C("English", "British", "UK"); //calls all thre parametrised constructor -> A -> B -> C
             obj.DisplayA();
             obj.DisplayB();
             obj.DisplayC();

@@ -15,7 +15,7 @@ namespace oops4{
         }
 
         static void Main(string[] args){
-            Car car = new Car("Aston Martin"); //calls the custom constructor we added
+            Car car = new Car("Aston Martin"); //calls the custom Parameterised we added
             Console.WriteLine("The model of the car is: " + car.model);
         }
     }

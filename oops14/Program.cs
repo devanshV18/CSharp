@@ -12,11 +12,13 @@ namespace MethodOverridingDemo
 
     class CreditCardPayment : Payment
     {
-
+        
         private void ValidateCreditCard()
         {
             Console.WriteLine("Credit Card validated.");
         }
+
+        //overridded ProcessPayment fxn
         public override void ProcessPayment(double amount)
         {
             ValidateCreditCard();
@@ -29,10 +31,13 @@ namespace MethodOverridingDemo
     class PayPalPayment : Payment
     {
 
+        
         private void AuthenticatePayPal()
         {
             Console.WriteLine("Authenticated with PayPal.");
         }
+
+        //overrridden ProcessPymentfxn fxn
         public override void ProcessPayment(double amount)
         {
             AuthenticatePayPal();
@@ -45,13 +50,19 @@ namespace MethodOverridingDemo
     {
         static void Main(string[] args)
         {
+
+            //creating instances of derived class using base calss interface
             Payment general = new Payment();
             Payment credit = new CreditCardPayment(); // base reference, derived object
             Payment paypal = new PayPalPayment();     // base reference, derived object
 
-            general.ProcessPayment(100.00);
-            credit.ProcessPayment(200.00); // Calls overridden method
-            paypal.ProcessPayment(300.00); // Calls overridden method
+            //creating instances of derived class directly and then calling the overridden fxn -> this also works.
+            PayPalPayment p = new PayPalPayment();
+            p.ProcessPayment(567.98);
+
+            // general.ProcessPayment(100.00); //calls base method as the object is of abse type
+            // credit.ProcessPayment(200.00); // Calls overridden method as the object type is of CreditCard Class.
+            // paypal.ProcessPayment(300.00); // Calls overridden method
         }
     }
 }

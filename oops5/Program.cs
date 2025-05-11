@@ -1,8 +1,7 @@
 ﻿using System;
 
 namespace oops5{
-    class Car
-{
+    class Car{
   public string model;
   public string color;
   public int year;

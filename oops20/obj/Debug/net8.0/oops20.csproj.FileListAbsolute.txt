@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\oops20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\oops20.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\oops20.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\oops20.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\oops20.sourcelink.json
+C:\Users\HP\Desktop\Csharp\oops20\bin\Debug\net8.0\oops20.exe
+C:\Users\HP\Desktop\Csharp\oops20\bin\Debug\net8.0\oops20.deps.json
+C:\Users\HP\Desktop\Csharp\oops20\bin\Debug\net8.0\oops20.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp\oops20\bin\Debug\net8.0\oops20.dll
+C:\Users\HP\Desktop\Csharp\oops20\bin\Debug\net8.0\oops20.pdb
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\oops20.dll
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\refint\oops20.dll
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\oops20.pdb
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\oops20.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp\oops20\obj\Debug\net8.0\ref\oops20.dll

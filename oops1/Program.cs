@@ -15,15 +15,18 @@ namespace oopsone{
     class Owner{
         string License = "BR01BW8695";
 
+    }
+
+    class Program{
         static void Main(string[] args){
             Car obj = new Car();
-            Console.WriteLine("Inside Owner class", obj.color);
+            Console.WriteLine("inside driver class " + obj.color);
         }
     }
 
     //KEY POINTS :- 
-    // 1. We used a public variable color from the Car class in the Owner class.
-    // We could create an object of the Car class in the Owner class and access the color variable as the default access modifier of class is internal, if we change it to public, it still works.
+    // 1. We used a public variable color from the Car class in the Program class.
+    // We could create an object of the Car class in the Program class and access the color variable as the default access modifier of class is internal, if we change it to public, it still works.
     //3 . NOTE -> Top level classes are not allowed to be private or protected.
 
     // Why is this?

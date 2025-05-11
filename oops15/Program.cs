@@ -33,9 +33,9 @@ class Program
     Animal myPig = new Pig();  // Create a Pig object
     Animal myDog = new Dog();  // Create a Dog object
 
-    myAnimal.animalSound();
-    myPig.animalSound();
-    myDog.animalSound();
+    // myAnimal.animalSound();
+    // myPig.animalSound();
+    // myDog.animalSound();
   }
 }
 }

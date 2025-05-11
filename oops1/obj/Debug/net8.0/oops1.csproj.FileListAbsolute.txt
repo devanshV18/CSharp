@@ -12,3 +12,4 @@ C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\refint\oops1.dll
 C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.pdb
 C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.genruntimeconfig.cache
 C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\ref\oops1.dll
+C:\Users\HP\Desktop\Csharp\oops1\obj\Debug\net8.0\oops1.sourcelink.json
